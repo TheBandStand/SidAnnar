@@ -3,4 +3,8 @@ baunir
 salt
 kakó
 mjólk
+<<<<<<< HEAD
 næsta bull sem þarf að laga
+=======
+bara bull bara bull
+>>>>>>> parent of 8605629... Revert "oh man that was not a wise change"
