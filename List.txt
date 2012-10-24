@@ -3,3 +3,4 @@ baunir
 salt
 kakó
 mjólk
+næsta bull sem þarf að laga
