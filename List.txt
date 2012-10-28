@@ -7,3 +7,4 @@ kanill
 s�r�u �etta doddi?
 jæja þá prófum við intelliJ tékkinn :-)
 Intellij virkar hjá Dodda.
+Intellij virkar hjá Guðna
