@@ -6,3 +6,4 @@ mj�lk
 kanill
 s�r�u �etta doddi?
 jæja þá prófum við intelliJ tékkinn :-)
+Intellij virkar hjá Dodda.
