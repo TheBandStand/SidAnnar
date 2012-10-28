@@ -4,3 +4,4 @@ salt
 kakó
 mjólk
 kanill
+sérðu þetta doddi?
